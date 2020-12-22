@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Freedom</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="user_data">Τα στοιχεία μου</string>
+    <string name="nav_header_subtitle">Τα στοιχεία σας είναι απαραίτητα για την αποστόλη του SMS</string>
+    <string name="user_name">Όνομα:</string>
+    <string name="name">Είσαγεται το όνομα σας</string>
+    <string name="user_surname">Επίθετο:</string>
+    <string name="surname">Είσαγεται το επίθετο σας</string>
+    <string name="user_address">Διεύθυνση Κατοικίας:</string>
+    <string name="address">Είσαγεται τη διεύθυνση σας</string>
+    <string name="alphabet">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZςερτυθιοπασδφγηξκλζχψωβνμςΕΡΤΥΘΙΟΠΑΣΔΦΓΗΞΚΛΖΧΨΩΒΝΜ</string>
+    <string name="ABnum">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZςερτυθιοπασδφγηξκλζχψωβνμςΕΡΤΥΘΙΟΠΑΣΔΦΓΗΞΚΛΖΧΨΩΒΝΜ1234567890</string>
+
+
+
+
+    <string name="one">Γιατρος - Φαρμακειο</string>
+    <string name="two">Super market</string>
+    <string name="three">Δημοσια Υπηρεσια</string>
+    <string name="four">Παροχη Βοηθειας</string>
+    <string name="five">Τελετη</string>
+    <string name="six">Ασκηση - Κατοικιδιο</string>
+    <string name="data">Τα στοιχεία μου</string>
+    <string name="info">Πληροφορίες</string>
+    <string name="example">example</string>
+    <string name="back">Πίσω</string>
+    <string name="save">Αποθήκευση</string>
+
+
+
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+</resources>
